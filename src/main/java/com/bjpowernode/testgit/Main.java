@@ -10,7 +10,6 @@ public class Main {
         student.setAge(27);
         student.setAddress("日月神教");
         System.out.println(student);
-        System.out.println(student);
 
 
         System.out.println("谎言和誓言的区别!");
