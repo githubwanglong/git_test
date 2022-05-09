@@ -18,5 +18,6 @@ public class Main {
         System.out.println("push test");
         System.out.println("pull");
         System.out.println("++++");
+        System.out.println("111111111");
     }
 }
