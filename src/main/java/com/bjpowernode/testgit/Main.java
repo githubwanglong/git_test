@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println("谎言和誓言的区别!");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
