@@ -12,8 +12,6 @@ public class Main {
         System.out.println(student);
         System.out.println(student);
 
-        System.out.println("Hello Git2!");
-        System.out.println("Hello Git3!");
 
         System.out.println("谎言和誓言的区别!");
     }
