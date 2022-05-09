@@ -10,6 +10,7 @@ public class Main {
         student.setAge(27);
         student.setAddress("日月神教");
         System.out.println(student);
+        System.out.println(student);
 
         System.out.println("Hello Git2!");
         System.out.println("Hello Git3!");
